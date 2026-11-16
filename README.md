@@ -20,9 +20,23 @@ and Igor: Objective Uikokahonia:
 <img width="30%" alt="scummvm-igor-cd-es-00000" src="https://github.com/user-attachments/assets/9e85488d-8d30-4e70-8a7c-7d09b767d12d" />
 <img width="30%" alt="scummvm-igor-es-00002" src="https://github.com/user-attachments/assets/824a6360-e06e-4c67-bdfa-15dd810d8ea8" />
 
+With the latter help from AI agents i've put out [Adventure Explorer](https://github.com/kelmer44/adventure-explorer), which lets you
+browse the resources for pretty much every adventure game from the 90s:
+
+<img width="70%" height="774" alt="image" src="https://github.com/user-attachments/assets/b2d4c0eb-c7d0-43df-8199-1a870369a716" />
+
+
+And [iMUSE player for Monkey Island 2](https://github.com/kelmer44/imusePlayer), which uses Nuke Opl2 emulator to play the music 
+from Monkey Island 2 on certain scenes, including transitions:
+
+<img width="70%" height="600" alt="image" src="https://github.com/user-attachments/assets/ecf29dfb-dd9d-45c9-bd3d-680730f4c125" />
+
+
 I've also created a pretty popular parcel tracking app for Correos:
 
 https://play.google.com/store/apps/details?id=net.kelmer.correostracker&hl=es
+
+
 
 <!--
 **kelmer44/kelmer44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
